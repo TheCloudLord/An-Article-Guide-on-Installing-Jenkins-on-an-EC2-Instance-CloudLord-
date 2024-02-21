@@ -31,7 +31,7 @@ First You copy your Instance’s Public IP Address paste it in the Hostname Inpu
 
 Click on “Auth” and then import your download Keypair to complete the authentication process to connect to the Instance.
 
-image
+<a href=”https://miro.medium.com/v2/resize:fit:640/format:webp/0*e2vIkeQfiidWkht2.png”></a>
 
 To go into root user, enter the command below
 su ec2-user
